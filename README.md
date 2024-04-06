@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinysudomonster
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python hashing
-- ⚡ Fun fact: Array start a 1 
+- ⚡ Fun fact: Arrays start a 1 
 
 <!---
 tinysudomonster/tinysudomonster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
