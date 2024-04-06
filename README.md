@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinysudomonster
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and retro hardware
 - 🌱 I’m currently learning python hashing
 - ⚡ Fun fact: Arrays start a 1 
 
